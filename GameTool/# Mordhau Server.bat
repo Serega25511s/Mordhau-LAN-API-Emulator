@@ -1,0 +1,1 @@
+start MordhauServer-Win64-Shipping.exe FFA_Contraband -log -Port=25565 -QueryPort=27015 -Beaconport=15000

@@ -1,0 +1,25 @@
+{
+  "name": "dreadhungerapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^7.0.0",
+    "axios": "^0.27.2",
+    "fastify": "^3.29.0",
+    "fastify-https-redirect": "^1.0.4",
+    "fastify-sslgen": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mongodb": "^4.7.0",
+    "steam-userinfo": "^1.1.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
